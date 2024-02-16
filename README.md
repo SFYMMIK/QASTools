@@ -2,6 +2,8 @@
 
 # QASTools
 
+# QASTools Is Officially Discontinued
+
 QASTools is a simple tkinter-based application that provides access to various simple but useful tools, including a 24-hour clock, a 12-hour clock, a calculator, a random Bible verse generator, a music player, and a quick search engine.
 
 ## How to Use
